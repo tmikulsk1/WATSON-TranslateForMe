@@ -4,7 +4,7 @@ This APP is a study of JSON/HTTP data retrieval using Watson API. After a quick 
 
 ## Contribution:
 
-*WATSON API: Language Translator* available in https://watson-api-explorer.mybluemix.net/apis/language-translator-v2#!/Models/getModel
+**WATSON API: Language Translator** available in https://watson-api-explorer.mybluemix.net/apis/language-translator-v2#!/Models/getModel
 
 #### IMPORTANT:
 
