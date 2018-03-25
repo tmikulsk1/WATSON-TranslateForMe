@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Watson: translate for me!</string>
+    <string name="language_in"> FROM: </string>
+    <string name="language_out">\ \ TO: \ </string>
+    <string name="input_text">Input some text to Watson translate: </string>
+    <string name="output_text">Here is Watson\'s translation:</string>
+    <string name="translate">Translate!</string>
+</resources>
